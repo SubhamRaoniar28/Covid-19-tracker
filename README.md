@@ -1,6 +1,6 @@
 # Covid-19-tracker is a react app made to track, check status and count of Corona virus affected countries and people.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Live Link (https://covid-19-tracker-e4bda.web.app/).
 
 ## Available Scripts
 
